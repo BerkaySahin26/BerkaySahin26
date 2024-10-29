@@ -4,7 +4,7 @@
 ![Software Test Engineer](https://intellitect.com/wp-content/uploads/2021/03/NET-Essential-C-Sharp-9-banner.png)
 
 ![](https://komarev.com/ghpvc/?username=BerkaySahin26&color=blue)
-![](https://komarev.com/ghpvc/?username=BerkaySahin26&color=blue)
+
 
 # 💫 About Me:
 During my studies, I took various courses such as **C#**, **(Oracle) SQL**, **Mobile Programming**, and **Web Development** (HTML, CSS, JavaScript). Additionally, I have been working extensively with **.NET Core** to enhance my software development skills.
